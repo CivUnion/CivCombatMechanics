@@ -206,6 +206,8 @@ public class OCMMain extends JavaPlugin {
         ModuleLoader.addModule(new ModuleOldBurnDelay(this));
         ModuleLoader.addModule(new ModuleAttackFrequency(this));
         ModuleLoader.addModule(new ModuleFishingRodVelocity(this));
+
+        ModuleLoader.addModule(new ModuleDisableEnchants(this));
     }
 
     private void registerHooks() {

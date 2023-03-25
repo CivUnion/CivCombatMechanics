@@ -8,9 +8,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>kernitus.plugin.OldCombatMechanics</groupId>
-    <artifactId>OldCombatMechanics</artifactId>
-    <version>2.0.0BETA</version>
-    <name>OldCombatMechanics</name>
+    <artifactId>CivCombatMechanics</artifactId>
+    <version>2.0.1</version>
+    <name>CivCombatMechanics</name>
     <description>Implements pre-1.9 combat-related mechanics</description>
     <url>https://github.com/kernitus/BukkitOldCombatMechanics</url>
 

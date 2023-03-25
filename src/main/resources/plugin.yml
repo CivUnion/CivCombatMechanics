@@ -3,9 +3,9 @@
 # file, You can obtain one at https://mozilla.org/MPL/2.0/.
 
 main: kernitus.plugin.OldCombatMechanics.OCMMain
-name: OldCombatMechanics
+name: CivCombatMechanics
 version: ${project.version}
-authors: [kernitus, Rayzr522]
+authors: [kernitus, Rayzr522, Longboyy]
 description: Reverts to pre-1.9 combat mechanics
 website: https://github.com/kernitus/BukkitOldCombatMechanics
 load: POSTWORLD

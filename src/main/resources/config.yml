@@ -542,6 +542,11 @@ old-critical-hits:
   # Whether to allow crits while sprinting. 1.8: true, 1.9: false
   allow-sprinting: true
 
+disable-enchants:
+  enabled: true
+  is-whitelist: false
+  enchants: ["frost_walker", "riptide", "mending"]
+
 ################################
 #### SUPPORT SETTINGS BELOW ####
 ################################
@@ -565,4 +570,4 @@ debug:
   enabled: false
 
 # DO NOT CHANGE THIS NUMBER AS IT WILL RESET YOUR CONFIG
-config-version: 55
+config-version: 56
